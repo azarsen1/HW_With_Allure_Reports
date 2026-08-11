@@ -35,7 +35,6 @@ target/
 .vscode
 /gradlew
 /gradlew.bat
-build.gradle.kts
 settings.gradle.kts
 src/main/
 .DS_Store
